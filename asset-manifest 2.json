@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/thrift-mall/static/css/main.5f15ca6d.chunk.css",
+    "main.js": "/thrift-mall/static/js/main.81f90dd8.chunk.js",
+    "main.js.map": "/thrift-mall/static/js/main.81f90dd8.chunk.js.map",
+    "runtime~main.js": "/thrift-mall/static/js/runtime~main.2beb3945.js",
+    "runtime~main.js.map": "/thrift-mall/static/js/runtime~main.2beb3945.js.map",
+    "static/js/2.0ea76f5c.chunk.js": "/thrift-mall/static/js/2.0ea76f5c.chunk.js",
+    "static/js/2.0ea76f5c.chunk.js.map": "/thrift-mall/static/js/2.0ea76f5c.chunk.js.map",
+    "static/js/3.177faaa1.chunk.js": "/thrift-mall/static/js/3.177faaa1.chunk.js",
+    "static/js/3.177faaa1.chunk.js.map": "/thrift-mall/static/js/3.177faaa1.chunk.js.map",
+    "index.html": "/thrift-mall/index.html",
+    "precache-manifest.c602cbcd8b46f4d0033d2eb4c577ba56.js": "/thrift-mall/precache-manifest.c602cbcd8b46f4d0033d2eb4c577ba56.js",
+    "service-worker.js": "/thrift-mall/service-worker.js",
+    "static/css/main.5f15ca6d.chunk.css.map": "/thrift-mall/static/css/main.5f15ca6d.chunk.css.map"
+  }
+}

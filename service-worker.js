@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thrift-mall/precache-manifest.c602cbcd8b46f4d0033d2eb4c577ba56.js"
+  "/thrift-mall/precache-manifest.2f11c170bb970e7285c1d5f31c7d089f.js"
 );
 
 self.addEventListener('message', (event) => {

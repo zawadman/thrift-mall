@@ -1,0 +1,30 @@
+/* src/styles/Navbar.css */
+.navbar {
+    background-color: #f5f0e1; /* Light cream to match the theme */
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-links {
+    display: flex;
+    justify-content: center; /* Centers the links horizontally */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-links li {
+    margin: 0 20px; /* Space between each link */
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #ad4e2a; /* Fall-themed deep red */
+    font-weight: bold;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #d88c58; /* Warm orange on hover */
+}
